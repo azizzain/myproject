@@ -1,1 +1,3 @@
 Hello from EC2
+Learning Git on EC2
+Learning Git as third line on EC2
